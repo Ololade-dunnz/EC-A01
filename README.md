@@ -1,6 +1,6 @@
 About Dataset
 
-The salaries are from ai-jobs (https://salaries.ai-jobs.net/ - which as at Dec 2025, when checked is a site that is no longer up). Ai-jobs collected salary information anonymously from professionals all over the world in the AI/ML and Big Data space and makes it publicly available for anyone to use, share and play around with. The data is being updated regularly with new data coming in, usually on a weekly basis. This went from the year 2020 - 2023. 
+The salaries are from ai-jobs (https://salaries.ai-jobs.net/ - which as at Dec 2025, when checked is a site that is no longer up). Ai-jobs collected salary information anonymously from professionals all over the world in the AI/ML and Big Data space and makes it publicly available for anyone to use, share and play around with. The data is being updated regularly with new data coming in, usually on a weekly basis. This went from the year 2020 - 2023 according to this DS downloaded from Kaggle. 
 The primary goal was to have data that could provide better guidance in regards to what's being paid globally. So newbies, experienced pros, hiring managers, recruiters and also startup founders or people wanting to make a career switch can make better informed decisions. 
 
 The dataset contains one table structured as follow:
